@@ -1,1 +1,20 @@
-== TEST
+== About me
+* 🧙‍♂️ Aspiring code wizzard
+* 🥟 I'm Polish, but my imagination traverses realms beyond borders
+
+== Studying
+* 🎓 Computer Science student at Collegium Da Vinci, Poznań, Poland
+* ⌨️ Fueling dreams of digital mastery as an aspiring programmer
+
+
+== Work
+* ⚙️ On the assembly line, I find my rhythm, but my mind dreams in code
+* 🔍 Seeking convergence of passion and profession
+* 🎯 Always on the lookout for the perfect workspace, where challenges ignite growth and innovation
+
+== Free time
+* ⏳ Idle moments stir a twinge of guilt
+* ⌨️ During leisure, I craft code, driven by a quest to discover and fulfill my ultimate purpose
+* 🧜‍♀️ Succumbing to the occasional siren song, I sink into another mindless session of watching YouTube and playing computer games
+
+_📷 I'm eager to rekindle my passion for virtual photography https://pseu.picashot.me/[Picashot]_
