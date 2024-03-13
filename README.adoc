@@ -7,4 +7,4 @@
 _📷 In my spare time I happen to take virtual shots https://pseu.picashot.me/[Picashot]_
 
 == BMRrro.com is out
-* Check your BMR at http://bmrrro.com/[BMRrro.com] (no SSL certification)
+* Check your BMR at https://www.bmrrro.com/[BMRrro.com]
