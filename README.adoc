@@ -8,3 +8,6 @@ _📷 In my spare time I happen to take virtual shots https://pseu.picashot.me/[
 
 == BMRrro.com is out
 * Check your BMR at https://www.bmrrro.com/[BMRrro.com]
+
+== Currently working on
+An electron app for skill management
