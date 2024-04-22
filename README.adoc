@@ -1,13 +1,12 @@
-== About me
-* 🧙‍♂️ Aspiring programmer
-* 🥟 Polish
-* 🎓 Information Technology student at Collegium Da Vinci, Poznań, Poland
-* ⚙️ Assembly line worker looking for IT job (I recently started reading books during breaks at work)
+= Jakub's GitHub Profile
+== Why?
+Welcome! I'm Jakub, a passionate IT student from Poland, eager to learn and create.
 
-_📷 In my spare time I happen to take virtual shots https://pseu.picashot.me/[Picashot]_
+== What?
+I specialize in Vue.js, JavaScript, Python, and more. I enjoy unraveling problems and crafting solutions through code.
 
-== BMRrro.com is out
-* Check your BMR at https://www.bmrrro.com/[BMRrro.com]
+== Who?
+I'm an IT student in Poland with a knack for problem-solving. Beyond coding, I indulge in 3D printing and savor the sounds of metal music. 
 
-== Currently working on
-An electron app for skill management
+=== Career
+I work in an unrelated field as an assembly line worker, where I developed valuable skills in efficiency, attention to detail, and teamwork. Currently, I'm actively seeking opportunities in the IT industry to apply and further develop my skills.
