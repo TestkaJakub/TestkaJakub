@@ -1,14 +1,30 @@
 = Jakub's GitHub Profile
 
 
-== Why?
-Welcome! I'm Jakub, a passionate IT student from Poland, eager to learn and create.
+== Why
+As an IT student, I'm driven by the potential of technology to bring positivity and happiness to people's lives. My journey in programming and problem-solving is fueled by a desire to contribute meaningfully to the world around me.
 
-== What?
-I specialize in Vue.js, JavaScript, Python, and more. I enjoy unraveling problems and crafting solutions through code.
+== How
+I approach challenges with an eagerness to learn and a willingness to persevere through difficulties. As a student, I'm constantly expanding my knowledge and refining my skills, embracing each opportunity to grow and improve. I find fulfillment in the process of exploring solutions and thinking critically about complex problems.
 
-== Who?
-I'm an IT student in Poland with a knack for problem-solving. Beyond coding, I indulge in 3D printing and savor the sounds of metal music. 
+== What
+* Projects: While my portfolio may be modest, you'll find examples of my work and projects that I've undertaken at some point or another.
+** An app deducated to managing your skills | TO DO IN THE FUTURE
+** An Quasar app dedicated to tracking birthdays | WIP
+** https://www.bmrrro.com[BMRrro.com]: A website dedicated to calculating BMR | 03.2024
+** Clicker game: Apprenticeship project at Trol Intermedia | 03.2022
+*** https://github.com/NataliaTI/praktyki2022-marzec-clicker[Game]
+*** https://github.com/NataliaTI/praktyki2022-marzec-clicker-api[API]
 
-=== Career
-I work in an unrelated field as an assembly line worker, where I developed valuable skills in efficiency, attention to detail, and teamwork. Currently, I'm actively seeking opportunities in the IT industry to apply and further develop my skills.
+* Skills: I'm focusing on webdevelopement
+** Vue.js is my framework of choosing
+** TypeScript is my preffered language for webDev
+** Quasar is my pick when it comes to multiplatform developement
+** Version Control using Git and GitHub
+
+== More
+* Passion: I'm passionate about programming and the potential for technology to make a positive impact.
+* Proficiency: As a student, I'm dedicated to learning and honing my skills in programming and problem-solving.
+* Purpose: I believe in the importance of contributing to a happier living through technology.
+* Future: I aspire to turn my passion and skills into a fulfilling career in IT, where I can continue to grow and make a difference.
+* Currently: Squeezing as much as I can from time I have. Working in unrelated field
