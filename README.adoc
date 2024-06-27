@@ -9,8 +9,6 @@ I approach challenges with an eagerness to learn and a willingness to persevere 
 
 == What
 * Projects: While my portfolio may be modest, you'll find examples of my work and projects that I've undertaken at some point or another.
-** An app deducated to managing your skills | TO DO IN THE FUTURE
-** An Quasar app dedicated to tracking birthdays | WIP
 ** https://www.bmrrro.com[BMRrro.com]: A website dedicated to calculating BMR | 03.2024
 ** Clicker game: Apprenticeship project at Trol Intermedia | 03.2022
 *** https://github.com/NataliaTI/praktyki2022-marzec-clicker[Game]
