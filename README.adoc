@@ -1,28 +1,32 @@
 = Jakub's GitHub Profile
 
+== About Me
+As an IT student constantly working to sharpen my skills, I am committed to becoming a versatile tool in the tech world. My focus is on continuous learning and adapting to new challenges, with the hope of one day building something truly significant.
 
-== Why
-As an IT student, I'm driven by the potential of technology to bring positivity and happiness to people's lives. My journey in programming and problem-solving is fueled by a desire to contribute meaningfully to the world around me.
+== Approach
+I tackle problems head-on with a focus on practical learning and growth. While still early in my career, I am driven by a desire to master a broad range of tools and technologies, embracing each challenge as an opportunity to become more adept at problem-solving.
 
-== How
-I approach challenges with an eagerness to learn and a willingness to persevere through difficulties. As a student, I'm constantly expanding my knowledge and refining my skills, embracing each opportunity to grow and improve. I find fulfillment in the process of exploring solutions and thinking critically about complex problems.
+== Projects
+* https://jakub-testka.itch.io/kenshi[Kenshi]: A collaborative game project developed in Unity | 07.2024
+* https://www.bmrrro.com[BMRrro.com]: A website dedicated to calculating BMR | 03.2024
+* Clicker Game: Apprenticeship project at Trol Intermedia | 03.2022
+  ** https://github.com/NataliaTI/praktyki2022-marzec-clicker[Game]
+  ** https://github.com/NataliaTI/praktyki2022-marzec-clicker-api[API]
 
-== What
-* Projects: While my portfolio may be modest, you'll find examples of my work and projects that I've undertaken at some point or another.
-** https://www.bmrrro.com[BMRrro.com]: A website dedicated to calculating BMR | 03.2024
-** Clicker game: Apprenticeship project at Trol Intermedia | 03.2022
-*** https://github.com/NataliaTI/praktyki2022-marzec-clicker[Game]
-*** https://github.com/NataliaTI/praktyki2022-marzec-clicker-api[API]
+== Technical Skills
+* Programming & Development:
+  ** Frameworks: Vue.js
+  ** Languages: TypeScript
+  ** Version Control: Git and GitHub
 
-* Skills: I'm focusing on webdevelopement
-** Vue.js is my framework of choosing
-** TypeScript is my preffered language for webDev
-** Quasar is my pick when it comes to multiplatform developement
-** Version Control using Git and GitHub
+== Tools to Learn
+I’m always expanding my knowledge and exploring new tools. Some technologies I’m eager to dive deeper into include:
+* Quasar (cross-platform development)
+* React (frontend development)
+* Deno 2.0 (JavaScript/TypeScript runtime)
 
-== More
-* Passion: I'm passionate about programming and the potential for technology to make a positive impact.
-* Proficiency: As a student, I'm dedicated to learning and honing my skills in programming and problem-solving.
-* Purpose: I believe in the importance of contributing to a happier living through technology.
-* Future: I aspire to turn my passion and skills into a fulfilling career in IT, where I can continue to grow and make a difference.
-* Currently: Squeezing as much as I can from time I have. Working in unrelated field
+== Vision & Future
+My journey in IT is guided by the desire to continually improve my skills and broaden my expertise. I aim to remain versatile across different domains, eventually applying this knowledge to create larger, impactful projects. I'm always on the lookout for opportunities that align with my vision for a dynamic and rewarding career.
+
+== Contact
+I'm actively looking for new possibilities. Feel free to connect with me through GitHub or https://www.linkedin.com/in/jakub-testka/[LinkedIn].
