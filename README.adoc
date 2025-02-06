@@ -35,7 +35,6 @@ A simple simulator for the classic game of Russian roulette.
 A finite state machine and BFS implementation to find the shortest instruction sequences to generate desired constants on https://github.com/Q2CK[@Q2CK]'s `WVRN` Minecraft CPU.
 
 * https://github.com/TestkaJakub/WVRN-constants-solver[GitHub Repository]
-* https://docs.google.com/spreadsheets/d/1i3Q2L1m56PltgmrEw15DMmdABcWfx8IORUwLYtaKq7w/edit?gid=237934555#gid=237934555[WVRN Documentation]
 
 ---
 
