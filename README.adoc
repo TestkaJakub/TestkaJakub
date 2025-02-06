@@ -1,32 +1,105 @@
 = Jakub's GitHub Profile
 
 == About Me
-As an IT student constantly working to sharpen my skills, I am committed to becoming a versatile tool in the tech world. My focus is on continuous learning and adapting to new challenges, with the hope of one day building something truly significant.
 
-== Approach
-I tackle problems head-on with a focus on practical learning and growth. While still early in my career, I am driven by a desire to master a broad range of tools and technologies, embracing each challenge as an opportunity to become more adept at problem-solving.
+I'm an IT student who programs for fun and enjoys learning new technologies. Currently, I'm focusing on Rust and Machine Learning in Python. I love tackling challenging problems and building projects that help me grow as a developer.
 
 == Projects
-* https://jakub-testka.itch.io/kenshi[Kenshi]: A collaborative game project developed in Unity | 07.2024
-* https://www.bmrrro.com[BMRrro.com]: A website dedicated to calculating BMR | 03.2024
-* Clicker Game: Apprenticeship project at Trol Intermedia | 03.2022
-  ** https://github.com/NataliaTI/praktyki2022-marzec-clicker[Game]
-  ** https://github.com/NataliaTI/praktyki2022-marzec-clicker-api[API]
+
+=== Spam Email Classification [Jupyter Notebook, Python] - February 2025
+
+A binary classification model that categorizes emails as spam or not spam.
+
+* https://github.com/TestkaJakub/spam-email-classification[GitHub Repository]
+
+---
+
+=== Predicting Accidents [Jupyter Notebook, Python] - January 2025 | Collaborative
+
+A failed attempt at a binary classification model for predicting accidents.
+
+* https://github.com/TestkaJakub/predicting-accidents[GitHub Repository]
+
+---
+
+=== Russian Roulette Simulator [Rust] - January 2025
+
+A simple simulator for the classic game of Russian roulette.
+
+* https://github.com/TestkaJakub/russian_roulette[GitHub Repository]
+
+---
+
+=== WVRN Constant Solver [Python] - January 2025
+
+A finite state machine and BFS implementation to find the shortest instruction sequences to generate desired constants on https://github.com/Q2CK[@Q2CK]'s `WVRN` Minecraft CPU.
+
+* https://github.com/TestkaJakub/WVRN-constants-solver[GitHub Repository]
+* https://docs.google.com/spreadsheets/d/1i3Q2L1m56PltgmrEw15DMmdABcWfx8IORUwLYtaKq7w/edit?gid=237934555#gid=237934555[WVRN Documentation]
+
+---
+
+=== Wave Generator [Rust] - January 2025
+
+A simple app for generating WAV files with linear chirp signals.
+
+* https://github.com/TestkaJakub/wave[GitHub Repository]
+
+---
+
+=== Steam Gaming Behavior Tracker [Python] - January 2025
+
+A prototype data collection app for Steam to track gaming behavior, with plans for further analysis and visualization.
+
+* https://github.com/TestkaJakub/Steam-Gaming-Behaviors[GitHub Repository]
+
+---
+
+=== Kenshi [Unity3D] - May-August 2024 | Collaborative
+
+A game project developed in Unity.
+
+* https://jakub-testka.itch.io/kenshi[Itch.io Game Page]
+
+---
+
+=== Steam Degrees of Separation [Python] - April 2024
+
+A BFS-based tool to determine the degrees of separation between Steam users.
+
+* https://github.com/TestkaJakub/Steam-Degrees-of-Separation[GitHub Repository]
+
+---
+
+=== Clicker Game - March 2022 | Collaborative
+
+A clicker game from my apprenticeship at Trol Intermedia, divided into frontend and backend repositories:
+
+* https://github.com/NataliaTI/praktyki2022-marzec-clicker-api[Backend Github Repository] [PHP]
+* https://github.com/NataliaTI/praktyki2022-marzec-clicker[Frontend Github Repository] [JavaScript (Webpack), CSS, HTML]
 
 == Technical Skills
-* Programming & Development:
-  ** Frameworks: Vue.js
-  ** Languages: TypeScript
-  ** Version Control: Git and GitHub
 
-== Tools to Learn
-I’m always expanding my knowledge and exploring new tools. Some technologies I’m eager to dive deeper into include:
-* Quasar (cross-platform development)
-* React (frontend development)
-* Deno 2.0 (JavaScript/TypeScript runtime)
+Languages: Rust, Python, JavaScript, TypeScript, and more
 
-== Vision & Future
-My journey in IT is guided by the desire to continually improve my skills and broaden my expertise. I aim to remain versatile across different domains, eventually applying this knowledge to create larger, impactful projects. I'm always on the lookout for opportunities that align with my vision for a dynamic and rewarding career.
+Frameworks, Libraries, Environments: Unity3D, Vue.js, and more
 
-== Contact
-I'm actively looking for new possibilities. Feel free to connect with me through GitHub or https://www.linkedin.com/in/jakub-testka/[LinkedIn].
+Development Tools: Git, GitHub, Jupyter Notebook
+
+== Tools to Learn in the future
+
+* Bevy (Game Engine)
+
+* Go (Programming Language)
+
+* Zig (Programming Language)
+
+* React (Frontend Development)
+
+* Nuxt (Vue.js Framework)
+
+== Get in Touch
+
+I'm always interested in collaborating on exciting projects. Feel free to connect with me through:
+
+* https://www.linkedin.com/in/jakub-testka/[LinkedIn]
