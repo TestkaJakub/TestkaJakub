@@ -28,7 +28,7 @@ you prioritize the most important things first.
 
 ---
 
-=== Taskhell (backend) [PHP] – March 2025 (joke project)
+=== Taskhell (backend) [PHP] – March 2025 (joke project) | Collaborative
 
 Taskhell is a to-do list app that tries to be as inconvenient to use as possible. It's a joke project
 making fun of the fast-paced, day-to-day routine of most of us.
