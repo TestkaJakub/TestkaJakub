@@ -11,7 +11,7 @@ web-based, self-hosted apps.
 
 == Projects
 
-== Portfolio [Svelte] – August 2025 (current iteration)
+=== Portfolio [Svelte] – August 2025 (current iteration)
 
 Hosted on a GitHub Pages website that showcases some of my projects.
 
@@ -19,7 +19,7 @@ Hosted on a GitHub Pages website that showcases some of my projects.
 
 ---
 
-== Taskfin [Next.js] – August 2025 (MVP, made in 2 days)
+=== Taskfin [Next.js] – August 2025 (MVP, made in 2 days)
 
 This to-do list app grades all your tasks and displays only the three with the highest grades to help
 you prioritize the most important things first.
@@ -28,7 +28,7 @@ you prioritize the most important things first.
 
 ---
 
-== Taskhell (backend) [PHP] – March 2025 (joke project)
+=== Taskhell (backend) [PHP] – March 2025 (joke project)
 
 Taskhell is a to-do list app that tries to be as inconvenient to use as possible. It's a joke project
 making fun of the fast-paced, day-to-day routine of most of us.
