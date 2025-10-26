@@ -1,126 +1,16 @@
-= Welcome!
+= Hi
 
-== How's 2025 going?
+So I could write some over the top readme but I don't see any sense in doing so.
 
-In early 2025 I challenged myself with the Rust programming language. It was unlike any
-language I was used to, but eventually I fell in love with it. Then I went down the rabbit hole of
-self-hosting. It provided both learning opportunities and—when finished—useful tools. Planning the
-infrastructure was like a puzzle: I had to make DNS, VPN, and reverse proxy work together to provide
-a secure connection to the server. For the remaining half of the year I plan on shipping several
-web-based, self-hosted apps.
-
-== Projects
-
-=== Portfolio [Svelte] – August 2025 (current iteration)
-
-Hosted on a GitHub Pages website that showcases some of my projects.
-
-* https://testkajakub.github.io/[Website]
-
----
-
-=== Taskfin [Next.js] – August 2025 (MVP, made in 2 days)
-
-This to-do list app grades all your tasks and displays only the three with the highest grades to help
-you prioritize the most important things first.
-
-* https://github.com/TestkaJakub/taskfin[GitHub Repository]
-
----
-
-=== Taskhell (backend) [PHP] – March 2025 (joke project) | Collaborative
-
-Taskhell is a to-do list app that tries to be as inconvenient to use as possible. It's a joke project
-making fun of the fast-paced, day-to-day routine of most of us.
-
-* https://github.com/Ksawert560/taskehell_backend[Backend GitHub Repository] (What I’ve worked on)
-* https://github.com/Ksawert560/taskhell_frontend[Frontend GitHub Repository]
-
----
-
-=== Spam Email Classification [Jupyter Notebook, Python] – February 2025
-
-A binary classification model that categorizes emails as spam or not spam.
-
-* https://github.com/TestkaJakub/spam-email-classification[GitHub Repository]
-
----
-
-=== Predicting Accidents [Jupyter Notebook, Python] – January 2025 | Collaborative
-
-A failed attempt at a binary classification model for predicting accidents.
-
-* https://github.com/TestkaJakub/predicting-accidents[GitHub Repository]
-
----
-
-=== Russian Roulette Simulator [Rust] – January 2025
-
-A simple simulator for the classic game of Russian roulette.
-
-* https://github.com/TestkaJakub/russian_roulette[GitHub Repository]
-
----
-
-=== WVRN Constant Solver [Python] – January 2025
-
-A finite-state machine and BFS implementation to find the shortest instruction sequences to generate
-desired constants on https://github.com/Q2CK[@Q2CK]'s `WVRN` Minecraft CPU.
-
-* https://github.com/TestkaJakub/WVRN-constants-solver[GitHub Repository]
-
----
-
-=== Wave Generator [Rust] – January 2025
-
-A simple app for generating WAV files with linear chirp signals.
-
-* https://github.com/TestkaJakub/wave[GitHub Repository]
-
----
-
-=== Steam Gaming Behavior Tracker [Python] – January 2025 (prototype)
-
-A prototype data collection app for Steam to track gaming behavior, with plans for further analysis
-and visualization.
-
-* https://github.com/TestkaJakub/Steam-Gaming-Behaviors[GitHub Repository]
-
----
-
-=== Kenshi [Unity3D] – May–August 2024 | Collaborative
-
-A game project developed in Unity.
-
-* https://jakub-testka.itch.io/kenshi[Itch.io Game Page]
-
----
-
-=== Steam Degrees of Separation [Python] – April 2024
-
-A BFS-based tool to determine the degrees of separation between Steam users.
-
-* https://github.com/TestkaJakub/Steam-Degrees-of-Separation[GitHub Repository]
-
----
-
-=== Clicker Game – March 2022 | Collaborative
-
-A clicker game from my apprenticeship at Trol Intermedia, divided into frontend and backend repositories:
-
-* https://github.com/NataliaTI/praktyki2022-marzec-clicker-api[Backend GitHub Repository] [PHP]
-* https://github.com/NataliaTI/praktyki2022-marzec-clicker[Frontend GitHub Repository] [JavaScript (Webpack), CSS, HTML]
-
-== Technical Skills
-
-Languages: Rust, Python, JavaScript, TypeScript, and more
-
-Frameworks, Libraries, Environments: Unity3D, Vue.js, Next.js, React, and more
-
-Development Tools: Git, GitHub, Jupyter Notebook
-
-== Get in Touch
-
-I'm always interested in collaborating on exciting projects. Feel free to connect with me through:
-
+* https://testkajakub.github.io/[Portfolio]
 * https://www.linkedin.com/in/jakub-testka/[LinkedIn]
+
+== Info
+
+**Employed:** yes (as of Q3 2025) +
+**Attending university:** yes (as of Q3 2025) +
+**Residing:** Poland
+
+---
+
+Last updated: _Late October 2025_
